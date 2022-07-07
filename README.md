@@ -8,7 +8,6 @@
 
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently studying at the university of [FSMVU](https://int.fsm.edu.tr/);
@@ -22,7 +21,6 @@
     <img width="55%" align="right" alt="Evren's github stats" src="https://github-readme-stats.vercel.app/api?username=keskinEvren&show_icons=true&hide_border=true" />
   </a>
   
-  -->
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
