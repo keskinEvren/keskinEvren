@@ -22,8 +22,8 @@
   </a>
   
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="11%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="11%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+  <code><img width="11%" height="48px" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-integrations-support-web-development-services-14.png"></code>
+  <code><img width="11%" height="52px" src="https://visualpharm.com/assets/512/Apple-595b40b75ba036ed117d85cd.svg"></code>
   <br />
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
