@@ -1,3 +1,4 @@
+
 ## Hi, I'm Evren Keskin, a Developer 🚀 from Turkey.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/keskinEvren)
@@ -6,17 +7,13 @@
 
 &nbsp;
 
+  
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently studying at the university of [FSMVU](https://int.fsm.edu.tr/);
 - 🌱 I’m currently focusing at School; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: evrenkeskin0998@gmail.com;
 
-<p>
-  <a href="">
-    <img width="40%" align="left" alt="Evren's github stats" src="https://github-readme-stats.vercel.app/api?username=keskinEvren&show_icons=true&hide_border=true" />
-  </a>
-</p>
