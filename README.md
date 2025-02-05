@@ -12,8 +12,8 @@
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently studying at the university of [FSMVU](https://int.fsm.edu.tr/);
-- 🌱 I’m currently focusing at School; 
+- 👨🏽‍💻 I have completed all my courses at [FSMVU](https://int.fsm.edu.tr/);
+- 🌱 I’m currently looking for a full-time job in software development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: evrenkeskin0998@gmail.com;
 
