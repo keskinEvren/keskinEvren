@@ -12,8 +12,8 @@
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I have completed all my courses at [FSMVU](https://int.fsm.edu.tr/);
-- 🌱 I’m currently looking for a full-time job in software development; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: evrenkeskin0998@gmail.com;
-
+- 💻 Computer Engineering graduate from [FSMVU](https://www.fsm.edu.tr//);
+- 🚀 Passionate about building modern, user-friendly web applications  
+- 🎯 Currently seeking a full-time role in **Software Development**
+- 🌱 Focused on becoming a well-rounded **Full Stack Developer**
+- 🤝 I enjoy helping others - feel free to reach out if you need any support!
