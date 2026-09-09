@@ -1,5 +1,5 @@
 
-## Hi, I'm Evren Keskin, a Developer 🚀 from Turkey.
+## Hi, I'm Evren Keskin, a Developer 🚀 from Türkiye.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/keskinEvren)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evren-keskin-099065127/)
