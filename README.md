@@ -1,19 +1,19 @@
+## Hi, I'm Evren Keskin 👋
 
-## Hi, I'm Evren Keskin, a Developer 🚀 from Türkiye.
+**Computer Engineer & Full Stack Developer from Türkiye 🇹🇷**
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/keskinEvren)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evren-keskin-099065127/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:evrenkeskin0998@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat\&logo=github\&logoColor=white)](https://github.com/keskinEvren)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/evren-keskin-099065127/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:evrenkeskin0998@gmail.com)
 
-&nbsp;
+<img width="42%" align="right" alt="Developer" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-  
-**Talking about Personal Stuffs:**
+### About Me
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 💻 Computer Engineering graduate from [FSMVU](https://www.fsm.edu.tr//);
-- 🚀 Passionate about building modern, user-friendly web applications  
-- 🎯 Currently seeking a full-time role in **Software Development**
-- 🌱 Focused on becoming a well-rounded **Full Stack Developer**
-- 🤝 I enjoy helping others - feel free to reach out if you need any support!
+* 💻 Computer Engineering graduate from [FSMVU](https://www.fsm.edu.tr/)
+* 🏢 Currently working at **Atom Bilişim**
+* 🚀 Building **web & mobile products** for real-world business workflows
+* ⚙️ Working with **B2B platforms, ERP integrations and automation**
+* 🧩 Interested in **Full Stack Development, Product Engineering & System Architecture**
+* 🧠 Exploring **AI-assisted development and agentic workflows**
+* 🎯 Focused on building **clean, scalable and production-ready software**
