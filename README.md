@@ -1,19 +1,34 @@
 ## Hi, I'm Evren Keskin 👋
 
-**Computer Engineer & Full Stack Developer from Türkiye 🇹🇷**
+**Computer Engineer & Full-Stack Product Builder from İstanbul, Türkiye 🇹🇷**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat\&logo=github\&logoColor=white)](https://github.com/keskinEvren)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/evren-keskin-099065127/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:evrenkeskin0998@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Showcase-111827?style=flat&logo=vercel&logoColor=white)](https://portfolio-bice-six-27.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evren_Keskin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evren-keskin-099065127/)
+[![Email](https://img.shields.io/badge/Email-evrenkeskin0998%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:evrenkeskin0998@gmail.com)
 
-<img width="42%" align="right" alt="Developer" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+---
 
 ### About Me
 
-* 💻 Computer Engineering graduate from [FSMVU](https://www.fsm.edu.tr/)
-* 🏢 Currently working at **Atom Bilişim**
-* 🚀 Building **web & mobile products** for real-world business workflows
-* ⚙️ Working with **B2B platforms, ERP integrations and automation**
-* 🧩 Interested in **Full Stack Development, Product Engineering & System Architecture**
-* 🧠 Exploring **AI-assisted development and agentic workflows**
-* 🎯 Focused on building **clean, scalable and production-ready software**
+- 🏢 Software & Product Engineer at **Atom Bilişim** — designing and shipping **B2B portals, live Logo ERP integrations, marketplace sync engines, and internal operations software**.
+- 💻 **Computer Engineering** graduate from [Fatih Sultan Mehmet Vakıf University](https://www.fsm.edu.tr/).
+- 🚀 Building end-to-end **web, mobile, and desktop products** with strong domain modeling, deterministic quality gates, and production-first UX.
+- 🧠 Exploring **AI-native product architectures** and repository-native agentic engineering workflows.
+
+---
+
+### Featured Public Projects
+
+| Project | Stack | Highlights |
+| :--- | :--- | :--- |
+| **[🧭 Pusula](https://github.com/keskinEvren/pusula)** · [Live](https://pusulalife.vercel.app) | Next.js 16, React 19, TypeScript, Supabase | Personal Finance, Project & Life Operating System with statement parsing, multi-currency liquidity, encrypted vault, and AI context export (`life.md`). |
+| **[🌿 WatchPath](https://github.com/keskinEvren/watchpath)** · [Live](https://watchpath-two.vercel.app) | Next.js, TypeScript, Gemini AI, React Flow | Transforms raw YouTube videos into structured, personalized multi-branch learning DAG curricula. |
+| **[📄 CV as Code](https://github.com/keskinEvren/cv-as-code-agent-kit)** | Next.js, TypeScript, Zod, Playwright | Single-source JSON career schema generating validated role-specific web views and pixel-accurate A4 PDF resumes. |
+
+---
+
+### Core Tech Stack
+
+- **Frontend & Mobile:** TypeScript, React 19, Next.js (App Router), Tailwind CSS, Expo / React Native, Electron
+- **Backend & Systems:** Node.js, NestJS, Go, Python, C# / .NET, REST & GraphQL APIs
+- **Data & Infrastructure:** PostgreSQL, Supabase (RLS & RPC), Prisma, Drizzle ORM, MSSQL (Logo ERP), Docker, Vercel, GitHub Actions
